@@ -1,0 +1,15 @@
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\e-Auditoria\Desktop\CalculatorWpf\Calculator\Calculator\obj\Debug\App.baml
